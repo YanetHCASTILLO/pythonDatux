@@ -1,0 +1,6 @@
+a = input("Ingrese nombre completo")
+print (a)
+b= input ("DNI")
+print (b)
+c= input("telefono")
+print (c)
