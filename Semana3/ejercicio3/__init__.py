@@ -1,0 +1,1 @@
+print("Este archivo se ejecuta",__name__,"y file =>",__file__)
